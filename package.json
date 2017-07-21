@@ -29,7 +29,7 @@
     "test:watch": "nwb test --server"
   },
   "dependencies": {
-    "inputmask-core": "^2.1.1"
+    "inputmask-core": "https://github.com/mdgbayly/inputmask-core.git#c7e5a4d5a3ff8ec67ad10c9169e785e915b9811f"
   },
   "peerDependencies": {
     "react": "0.14.x || 15.x.x"
